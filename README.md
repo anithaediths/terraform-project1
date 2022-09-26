@@ -9,3 +9,4 @@ terragrunt apply-all --terragrunt-non-interactive
 terragrunt run-all apply --terragrunt-non-interactive
 ### Destroy all
 terragrunt destroy-all --terragrunt-non-interactive
+# terraform-aws-setup
